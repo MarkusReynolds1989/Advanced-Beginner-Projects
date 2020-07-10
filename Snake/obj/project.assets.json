@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MR071411\\Home\\Code\\CSharp\\Snake\\Snake.csproj",
+      "projectUniqueName": "C:\\Users\\MR071411\\Home\\Code\\CSharp\\AdvancedBeginner\\Snake\\Snake.csproj",
       "projectName": "Snake",
-      "projectPath": "C:\\Users\\MR071411\\Home\\Code\\CSharp\\Snake\\Snake.csproj",
+      "projectPath": "C:\\Users\\MR071411\\Home\\Code\\CSharp\\AdvancedBeginner\\Snake\\Snake.csproj",
       "packagesPath": "C:\\Users\\MR071411\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MR071411\\Home\\Code\\CSharp\\Snake\\obj\\",
+      "outputPath": "C:\\Users\\MR071411\\Home\\Code\\CSharp\\AdvancedBeginner\\Snake\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
